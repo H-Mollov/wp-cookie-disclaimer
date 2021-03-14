@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+div.cookie-disclaimer-wrapper {
+    width: 211px;
+    border: 3px solid #f7c413;
+    box-sizing: border-box;
+    padding: 0px 15px;
+    position: fixed;
+    right: 5px;
+    bottom: 5px;
+    background: white;
+    z-index: 999
+}
+
+div.cookie-disclaimer-wrapper p {
+    margin: 10px 0px;
+    line-height: 14px;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+}
+
+div.cookie-disclaimer-wrapper p a {
+    color: gray;
+    text-overflow: ellipsis;
+}
+
+div.cookie-disclaimer-wrapper .close-button {
+    font-size: 20px;
+    color: gray;
+    text-align: end;
+}
+
+div.cookie-disclaimer-wrapper .close-button span:hover {
+    cursor: pointer;
+}
+
+div.cookie-disclaimer-wrapper>button#accept-cookies-btn {
+    font-family: 'Roboto', sans-serif;
+    padding: 5px 20px;
+    background: #f7c413;
+    color: black;
+    border: none;
+    margin: 20px auto;
+    display: block;
+    font-size: 14px;
+}
