@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: H.Mollov Cookie Disclaimer Plugin
-Plugin URI: <-- Put GitHub url here
+Plugin URI: https://github.com/H-Mollov/wp-cookie-disclaimer/tree/main/hm-cookie-disclaimer-plugin
 Description: Cookie Disclaimer Test Plugin. Provides a consent form to the user, giving him all the information needed about the cookies that are about to be stored.
 Version: 1.0.0
 Author: Hasan Mollov - H.M.
